@@ -1,0 +1,4 @@
+colorama==0.4.6
+six==1.16.0
+tqdm==4.67.0
+whisper==1.1.10
